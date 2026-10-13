@@ -3,6 +3,7 @@ RENCANA KONTEN ANAN
 - javascrips
   * ES6
   * Framework Javascript
+- Fundamental data struktur
 - php framework
 - interview
 - vlog
