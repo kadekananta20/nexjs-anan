@@ -4,6 +4,7 @@ RENCANA KONTEN ANAN
   * ES6
   * Framework Javascript
   > Vue
+  > react
 - Fundamental data struktur
 - php framework
  > laravel
