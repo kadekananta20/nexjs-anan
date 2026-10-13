@@ -3,10 +3,11 @@ RENCANA KONTEN ANAN
 - javascrips
   * ES6
   * Framework Javascript
-  > Angular
-  > React
-
+  > Vue
+  > react
+- Fundamental data struktur
 - php framework
  > laravel
 - interview
 - vlog
+- Python
