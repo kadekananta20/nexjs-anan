@@ -2,5 +2,5 @@ TES RESOLUSI
 - Frontend nextJS
 - Buat Web tentang tenagakerjaan ataupun pemerintahan
 - gaskeun
-- Membuat merch shop
 - Colab dengan lebih banyak
+- Membuat vlog
