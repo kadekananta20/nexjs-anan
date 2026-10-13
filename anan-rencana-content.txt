@@ -1,6 +1,8 @@
 RENCANA KONTEN ANAN
 
 - javascrips
+  * ES6
+  * Framework Javascript
 - php framework
 - interview
 - vlog
