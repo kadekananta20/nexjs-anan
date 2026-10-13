@@ -1,0 +1,4 @@
+TES RESOLUSI
+- Frontend nextJS
+- Buat Web tentang tenagakerjaan ataupun pemerintahan
+- gaskeun
